@@ -21,7 +21,7 @@ function humanYearsCatYearsDogYears(humanYears) {
     } else if (i === 2) {
       catYears += 9;
       dogYears += 9;
-    } else (i >= 3) {
+    } else {
       catYears += 4;
       dogYears += 5;
     }
