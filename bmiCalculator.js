@@ -25,4 +25,6 @@ function bmi(weight, height) {
   }
   
 }
-b
+
+//callback
+bmi(22,3)
